@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.Evaluacion_Login" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">@color/synth_pink</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/synth_cyan</item>
+        <item name="android:windowBackground">@color/synth_bg_dark</item>
+        <item name="android:statusBarColor">@color/synth_bg_dark</item>
+        <item name="android:navigationBarColor">@color/synth_bg_dark</item>
+    </style>
+</resources>

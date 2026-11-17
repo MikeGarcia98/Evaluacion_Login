@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Fondos y superficies -->
+    <color name="synth_bg_dark">#141026</color>
+    <color name="synth_surface">#1B1633</color>
+
+    <!-- Acentos principales -->
+    <color name="synth_pink">#FF2A85</color>
+    <color name="synth_cyan">#00E5FF</color>
+    <color name="synth_orange">#FF9E44</color>
+
+    <!-- Textos y bordes -->
+    <color name="synth_text_primary">#F8F8F2</color>
+    <color name="synth_outline_muted">#6E678A</color>
+    <color name="synth_outline_faint">#2B2447</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>
